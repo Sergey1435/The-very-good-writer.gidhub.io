@@ -1,0 +1,142 @@
+
+#hello_image1{
+ position: absolute;
+ top: 100%;
+ left: -7%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image2{
+ position: absolute;
+ top: 100%;
+ left: -12%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image3{
+ position: absolute;
+ top: 100%;
+ left: 30%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image4{
+ position: absolute;
+ top: 100%;
+ left: 42%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image5{
+ position: absolute;
+ top: 100%;
+ left: 73%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image6{
+ position: absolute;
+ top: 160%;
+ left: -10%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image7{
+ position: absolute;
+ top: 160%;
+ left: 7%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image8{
+ position: absolute;
+ top: 160%;
+ left: 16%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image9{
+ position: absolute;
+ top: 160%;
+ left: 39%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image10{
+ position: absolute;
+ top: 160%;
+ left: 50%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image11{
+ position: absolute;
+ top: 160%;
+ left: 82%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image12{
+ position: absolute;
+ top: 210%;
+ left: -2%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+#hello_image13{
+ position: absolute;
+ top: 7%;
+ left: -8%;
+-webkit-filter: drop-shadow(5px 5px 5px #4682B4);
+ filter: drop-shadow(5px 5px 5px #4682B4);
+}
+body{
+background-color: rgba(173, 216, 230, 0.5);
+}
+
+.container {
+ text-align: center;
+ color: magenta;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.centered {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+#p01 {
+    color: blue;
+    position: absolute; 
+    top: 83%;
+    left: 1%;
+    font-size: 300%;
+}
+#p02 {
+    color: rgb(250, 3, 3);
+    position: absolute; 
+    top: -1%;
+    left: 40%;
+    right: 4%;
+    font-size: 200%;
+}
+#p03 {
+    color: rgb(250, 3, 3);
+    position: absolute; 
+    top: 60%;
+    left: 1%;
+    right: 70%;
+    font-size: 200%;
+}
+
+#h01 {
+    color: rgb(255, 255, 255);
+    position: absolute; 
+    top: 1%;
+    left: 10%;
+    font-size: 200%;
+}
+p {
+    border: 1px solid rgba;
+    padding: 30px;
+}
